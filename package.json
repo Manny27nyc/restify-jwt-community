@@ -42,7 +42,7 @@
     "restify-errors": "5.x || 6.x || 7.x || 8.x"
   },
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.5",
     "express-unless": "^1.0.0",
     "jsonwebtoken": "^8.5.1"
   },
