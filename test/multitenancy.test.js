@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const assert = require('assert');
 const errors = require('restify-errors');
 const jwt = require('jsonwebtoken');
